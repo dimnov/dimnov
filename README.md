@@ -5,7 +5,7 @@
 - I'm an 18-year-old Web development student at Software University (softuni.bg). 
 - I truly enjoy using JavaScript, thinking logically and coming up with solutions.
 ##
-My Skills (more skills loading...)
+<b>My Skills</b> (more skills loading...)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,react,nodejs,ps)](https://skillicons.dev)
 ##
