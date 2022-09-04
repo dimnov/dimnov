@@ -7,7 +7,7 @@
 ##
 My Skills (more skills loading...)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,react,nodejs,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,react,nodejs,ps)](https://skillicons.dev)
 ##
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimnov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
