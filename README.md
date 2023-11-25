@@ -2,7 +2,7 @@
 
 <p>
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimnov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
-  <img height="150em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimnov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+  <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimnov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
 
 ## Skills
@@ -13,7 +13,7 @@
 - **Unit Testing:** Mocha
 
 ## Education
-- Currently specializing in JavaScript Web Development at the Software University (softuni.bg). 🎓 
+- Currently specializing in JavaScript Web Development at Software University (softuni.bg). 🎓 
 
 ## Contact
 - Email: dimitar.ivanov.dev@gmail.com
