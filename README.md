@@ -6,11 +6,11 @@
 </p>
 
 ## Skills
-- **Web Development:** HTML, CSS, Tailwind, JavaScript, TypeScript
-- **Frontend:** React, Angular
-- **Backend:** Node.js, Express
-- **Databases:** PostgreSQL
-- **Unit Testing:** Mocha
+- **Web Development:** HTML, CSS, Tailwind, JavaScript, TypeScript 🌐
+- **Frontend:** React ⚛️, Angular 🅰️
+- **Backend:** Node.js 📦, Express 🚂
+- **Databases:** PostgreSQL 🐘
+- **Unit Testing:** Mocha ☕️
 
 ## Education
 - Currently specializing in JavaScript Web Development at Software University (softuni.bg). 🎓 
