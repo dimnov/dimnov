@@ -20,7 +20,7 @@
 - LinkedIn: [Dimitar Ivanov](https://www.linkedin.com/in/dimnov/)
 
 ## Certifications
-- React - currently here :)
+- [React](https://softuni.bg/certificates/details/197808/898ded3e)
 - [Angular](https://softuni.bg/certificates/details/182970/db6b75ef)
 - [HTML & CSS](https://softuni.bg/certificates/details/190748/241f654e)
 - [JS Applications](https://softuni.bg/certificates/details/167792/56b02d53)
