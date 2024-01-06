@@ -1,4 +1,4 @@
-# Dimitar Ivanov - Web Developer and React Enthusiast 🚀
+# Dimitar Ivanov - React Web Developer 🚀
 
 <p>
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimnov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
@@ -9,8 +9,9 @@
 - **Web Development:** HTML, CSS, Tailwind, JavaScript, TypeScript 🌐
 - **Frontend:** React ⚛️, Angular 🅰️
 - **Backend:** Node.js 📦, Express 🚂
-- **Databases:** PostgreSQL 🐘
+- **Databases:** MySQL 🐬
 - **Unit Testing:** Mocha ☕️
+
 
 ## Education
 - Currently specializing in JavaScript Web Development at Software University (softuni.bg). 🎓 
