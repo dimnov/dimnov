@@ -21,10 +21,11 @@
 - LinkedIn: [Dimitar Ivanov](https://www.linkedin.com/in/dimnov/)
 
 ## Certifications
-- [MySQL]() - soon
+- [MySQL](https://softuni.bg/certificates/details/202836/40875686)
 - [React](https://softuni.bg/certificates/details/197808/898ded3e)
 - [Angular](https://softuni.bg/certificates/details/182970/db6b75ef)
 - [HTML & CSS](https://softuni.bg/certificates/details/190748/241f654e)
+- [JS Back-End]() - soon
 - [JS Applications](https://softuni.bg/certificates/details/167792/56b02d53)
 - [JS Advanced](https://softuni.bg/certificates/details/160131/ffa3ce63)
 - [JS Fundamentals](https://softuni.bg/certificates/details/151622/466419dc)
