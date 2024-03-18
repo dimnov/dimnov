@@ -9,7 +9,7 @@
 - **Web Development:** HTML, CSS, Tailwind, JavaScript, TypeScript 🌐
 - **Frontend:** React ⚛️, Angular 🅰️
 - **Backend:** Node.js 📦, Express 🚂
-- **Databases:** MySQL 🐬, MongoDB 🍃
+- **Databases:** MySQL 🐬, MongoDB/Mongoose 🍃
 - **Unit Testing:** Mocha ☕️
 
 ## Education
