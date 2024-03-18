@@ -9,9 +9,8 @@
 - **Web Development:** HTML, CSS, Tailwind, JavaScript, TypeScript 🌐
 - **Frontend:** React ⚛️, Angular 🅰️
 - **Backend:** Node.js 📦, Express 🚂
-- **Databases:** MySQL 🐬
+- **Databases:** MySQL 🐬, MongoDB 🍃
 - **Unit Testing:** Mocha ☕️
-
 
 ## Education
 - Currently specializing in JavaScript Web Development at Software University (softuni.bg). 🎓 
