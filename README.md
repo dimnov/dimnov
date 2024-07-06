@@ -1,4 +1,4 @@
-# Dimitar Ivanov - React Web Developer 🚀
+# Dimitar Ivanov - React Developer 🚀
 
 <p align="center">
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimnov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true&hide_rank=true" />
@@ -11,6 +11,13 @@
 - **Back-end:** Node.js 📦, Express 🚂
 - **Databases:** MySQL 🐬, MongoDB/Mongoose 🍃
 - **Unit Testing:** Mocha ☕️
+
+### React Ecosystem:
+- **State Management:** Redux 🗃️ and Context API 🔄
+- **Data Fetching and Caching:** React Query 🎣
+- **Routing:** React Router 🔀
+- **Framework:** Next.js 🚀
+- **Styling:** Styled Components 💅 and Tailwind 🌬️
 
 ## Education & Diploma
 - **Graduated:** Software University (softuni.bg) with a specialization in JavaScript Web Development.🎓
