@@ -6,10 +6,11 @@
 </p>
 
 ## Skills
-- **Web Development:** HTML, CSS, JavaScript, TypeScript 🌐
+- **Web Development:** HTML, CSS, JS, TS 🌐
 - **Front-end:** React ⚛️, Angular 🅰️
 - **Back-end:** Node.js 📦, Express 🚂
-- **Databases:** MySQL 🐬, MongoDB/Mongoose 🍃
+- **BaaS**: Supabase⚡, Firebase/Firestore 🔥
+- **DB Systems:** MySQL 🐬, MongoDB/Mongoose 🍃
 - **Unit Testing:** Mocha ☕️
 
 ### React Ecosystem:
