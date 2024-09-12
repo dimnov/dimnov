@@ -6,11 +6,10 @@
 </p>
 
 ## Skills
-- **Web Development:** HTML, CSS, JS, TS 🌐
-- **Front-end:** React ⚛️, Angular 🅰️
+- **Front-end:** React ⚛️
 - **Back-end:** Node.js 📦, Express 🚂
 - **BaaS**: Supabase⚡, Firebase/Firestore 🔥
-- **DB Systems:** MySQL 🐬, MongoDB/Mongoose 🍃
+- **DB:** MySQL 🐬, MongoDB/Mongoose 🍃
 - **Unit Testing:** Mocha ☕️
 
 ### React Ecosystem:
@@ -18,10 +17,10 @@
 - **Data Fetching and Caching:** React Query 🎣
 - **Routing:** React Router 🔀
 - **Framework:** Next.js 🚀
-- **Styling:** Styled Components 💅 and Tailwind 🌬️
+- **Styling:** Tailwind 🌬️
 
 ## Education & Diploma
-- **Graduated:** Software University (softuni.bg) with a specialization in JavaScript Web Development.🎓
+- **Graduated:** Software University with a specialization in JavaScript Web Development.🎓
 - **Diploma:** **[JS Web Developer](https://softuni.bg/certificates/details/215941/29bf3bfe)**
 
 ## Certifications
