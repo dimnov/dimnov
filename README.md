@@ -8,16 +8,17 @@
 ## Skills
 - **Front-end:** React ⚛️
 - **Back-end:** Node.js 📦, Express 🚂
-- **BaaS**: Supabase⚡, Firebase/Firestore 🔥
+- **BaaS:** Supabase ⚡, Firebase/Firestore 🔥
 - **DB:** MySQL 🐬, MongoDB/Mongoose 🍃
-- **Unit Testing:** Mocha ☕️
+- **Testing:** Jest 🧪
 
 ### React Ecosystem:
-- **State Management:** Redux 🗃️ and Context API 🔄
+- **State Management:** Redux 🗃️, Context API 🔄
 - **Data Fetching and Caching:** React Query 🎣
 - **Routing:** React Router 🔀
+- **Forms:** React Hook Form 📝
 - **Framework:** Next.js 🚀
-- **Styling:** Tailwind 🌬️
+- **Styling:** Tailwind 🌬️, CSS Modules 🧵
 
 ## Education & Diploma
 - **Graduated:** Software University with a specialization in JavaScript Web Development.🎓
