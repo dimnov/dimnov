@@ -15,10 +15,9 @@
 ### React Ecosystem:
 - **State Management:** Redux 🗃️, Context API 🔄
 - **Data Fetching and Caching:** React Query 🎣
-- **Routing:** React Router 🔀
 - **Forms:** React Hook Form 📝
 - **Framework:** Next.js 🚀
-- **Styling:** Tailwind 🌬️, CSS Modules 🧵
+- **Styling:** Tailwind 🌬️, Styled components 💅
 
 ## Education & Diploma
 - **Graduated:** Software University with a specialization in JavaScript Web Development.🎓
@@ -27,8 +26,6 @@
 ## Certifications
 
 - **[React](https://softuni.bg/certificates/details/197808/898ded3e)**: This React course teaches building Single Page Applications with ReactJS, covering JSX syntax, component-based architecture, routing, form validation, styling, React Hooks, Context API, and Unit Testing with JEST.
-
-- **[Angular](https://softuni.bg/certificates/details/182970/db6b75ef)**: This Angular course teaches building Single Page Applications (SPAs) with Angular, covering TypeScript basics, architectural patterns, components, data binding, routing, observables, REST service integration, and dependency injection (DI).
 
 - **[MySQL](https://softuni.bg/certificates/details/202836/40875686)**: The course introduces students to MySQL, covering relational database fundamentals including table operations, grouping functions, transactions, and procedures, providing essential skills for working with databases in real-world applications.
 
