@@ -6,10 +6,8 @@
 </p>
 
 ## Skills
-- **Back-end:** Node.js 📦, Express 🚂
-- **DB:** MySQL 🐬, MongoDB/Mongoose 🍃
+- **Back-end:** Node.js 📦, Express 🚂, SQL 🗄️ 
 - **BaaS:** Supabase ⚡
-- **Testing:** Jest 🧪
 
 ### React Ecosystem:
 - **State Management:** Redux Toolkit 🗃️, Context API 🔄
