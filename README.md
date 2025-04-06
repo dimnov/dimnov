@@ -5,16 +5,13 @@
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimnov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" />
 </p>
 
-## Skills
-- **Back-end:** Node.js 📦, Express 🚂, SQL 🗄️ 
-- **BaaS:** Supabase ⚡
-
-### React Ecosystem:
+### Skills:
 - **State Management:** Redux Toolkit 🗃️, Context API 🔄
 - **Data Fetching and Caching:** React Query 🎣, RTK Query 📦
 - **Framework:** Next.js 🚀, React Native (Expo) ⚛️📱 
 - **Styling:** Tailwind 🌬️, Styled components 💅
 - **Forms:** React Hook Form 📝
+- **Tests:** Jest 🃏, React Testing Library 🐙
 
 ## Education & Diploma
 - **Graduated:** Software University with a specialization in JavaScript Web Development.🎓
