@@ -9,9 +9,9 @@
 - **State Management:** Redux Toolkit 🗃️, Context API 🔄
 - **Data Fetching and Caching:** React Query 🎣, RTK Query 📦
 - **Framework:** Next.js 🚀, React Native (Expo) ⚛️📱 
-- **Styling:** Tailwind 🌬️, Styled components 💅
-- **Forms:** React Hook Form 📝
-- **Tests:** Jest 🃏, React Testing Library 🐙
+- **Styling:** Tailwind 🌬️, Styled components 💅 (and CSS modules)
+- **Forms:** React Hook Form 📝 (with or without Zod 💎)
+- **Tests:** Jest 🃏 (or Vitest), React Testing Library 🐙
 
 ## Education & Diploma
 - **Graduated:** Software University with a specialization in JavaScript Web Development.🎓
